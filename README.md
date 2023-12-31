@@ -9,4 +9,4 @@
 <p>it's very cring but мне поебать)0)00)</p>
 <a href="https://www.donationalerts.com/r/strokedevv">tap here to donate</a>
 <h1>License</h1>
-The Mozilla Public License (MPL) was first issued in 1998, with a significantly revised version 1.1 following the next year. Mozilla Public License 2.0 debuted more than a decade later, in 2010, and has remained the MPL of choice ever since. The MPL 2.0 is neither a permissive license like the MIT License (which allows for extremely limited usage of licensed work) nor a strong copyleft license like the GPL v2.
+<p>The Mozilla Public License (MPL) was first issued in 1998, with a significantly revised version 1.1 following the next year. Mozilla Public License 2.0 debuted more than a decade later, in 2010, and has remained the MPL of choice ever since. The MPL 2.0 is neither a permissive license like the MIT License (which allows for extremely limited usage of licensed work) nor a strong copyleft license like the GPL v2..</p>
