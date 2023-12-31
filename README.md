@@ -9,7 +9,7 @@
 <p>Tested only on official Minecraft Launcher and TL Legacy!</p>
 <p>1) Go to main minecraft folder</p>
 <p>2) Go to versions folder</p>
-<p>3) Extract content from release archive into versions folder</p>
+<p>3) Extract content from <a href="https://github.com/strokegmd/StrokeClient/releases/">release</a> archive into versions folder</p>
 <p>4) Launch your minecraft launcher</p>
 <p>5) Find version with "Stroke" in name</p>
 <p>6) Done!</p>
